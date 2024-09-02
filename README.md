@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jared
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Compsci Networking/ Cyber Security
+- 📫 How to reach me Japeck15501@gmail.com
